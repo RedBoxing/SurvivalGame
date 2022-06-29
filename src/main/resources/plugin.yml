@@ -1,0 +1,12 @@
+name: SurvivalGame
+version: @version@
+main: fr.redboxing.survivalgame.SurvivalGame
+api-version: 1.17
+authors: [ RedBoxing ]
+website: https://redboxing.fr
+commands:
+  survivalgame:
+    description: survival game
+    aliases:
+      - sg
+    permission: fr.redboxing.survivalgame.survivalgame
